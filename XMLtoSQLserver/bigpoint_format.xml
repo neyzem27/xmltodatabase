@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Stoklar>
+<Stok>
+  <urun_adi>BAYINDIR TEKNİK RESİM MİLİMETRİK A4 MAVİ</urun_adi>
+  <urun_kodu>BAYBN0160</urun_kodu>
+  <marka>BAYINDIR DEFTER VE BASILI EVRAK MATBU EVRAK</marka>
+  <liste_fiyati>17,480000</liste_fiyati>
+  <iskonto>7</iskonto>
+  <net_fiyati>16,2564</net_fiyati>
+  <kdv_orani>8,00</kdv_orani>
+  <kdvli_brutfiyati>18,878400</kdvli_brutfiyati>
+  <kdvli_fiyat>17,556912</kdvli_fiyat>
+  <birim1_adi>ADET</birim1_adi>
+  <birim2_adi></birim2_adi>
+  <birim2_kat>1</birim2_kat>
+  <birim3_adi></birim3_adi>
+  <birim3_kat>1</birim3_kat>
+  <minimum_siparis>12,00</minimum_siparis>
+  <mevcut_stok>48,00</mevcut_stok>
+  <barkod1>8690240201101</barkod1>
+  <barkod2></barkod2>
+  <min_siparis_barkodu>8690240201101</min_siparis_barkodu>
+  <ana_kategori>DEFTERLER</ana_kategori>
+  <alt_kategori>RESİM DEFTERLERİ</alt_kategori>
+  <mensei></mensei>
+  <Resim>https://bigpointb2b.com//Content/img/Stokpic/Midi/20982.png</Resim>
+  <urun_adresi>https://bigpointb2b.com//Stok/StokDetay/12573</urun_adresi>
+  <urun_aciklamasi></urun_aciklamasi>
+</Stok>
+  </Stoklar>

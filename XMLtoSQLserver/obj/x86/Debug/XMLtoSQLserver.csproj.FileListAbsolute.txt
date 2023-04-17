@@ -1,0 +1,9 @@
+C:\github\ExchangingDataBetweenXMLandSQLserver-master\XMLtoSQLserver\XMLtoSQLserver\bin\Debug\XMLtoSQLserver.exe
+C:\github\ExchangingDataBetweenXMLandSQLserver-master\XMLtoSQLserver\XMLtoSQLserver\bin\Debug\XMLtoSQLserver.pdb
+C:\github\ExchangingDataBetweenXMLandSQLserver-master\XMLtoSQLserver\XMLtoSQLserver\obj\x86\Debug\XMLtoSQLserver.csprojAssemblyReference.cache
+C:\github\ExchangingDataBetweenXMLandSQLserver-master\XMLtoSQLserver\XMLtoSQLserver\obj\x86\Debug\XMLtoSQLserver.Form1.resources
+C:\github\ExchangingDataBetweenXMLandSQLserver-master\XMLtoSQLserver\XMLtoSQLserver\obj\x86\Debug\XMLtoSQLserver.Properties.Resources.resources
+C:\github\ExchangingDataBetweenXMLandSQLserver-master\XMLtoSQLserver\XMLtoSQLserver\obj\x86\Debug\XMLtoSQLserver.csproj.GenerateResource.cache
+C:\github\ExchangingDataBetweenXMLandSQLserver-master\XMLtoSQLserver\XMLtoSQLserver\obj\x86\Debug\XMLtoSQLserver.csproj.CoreCompileInputs.cache
+C:\github\ExchangingDataBetweenXMLandSQLserver-master\XMLtoSQLserver\XMLtoSQLserver\obj\x86\Debug\XMLtoSQLserver.exe
+C:\github\ExchangingDataBetweenXMLandSQLserver-master\XMLtoSQLserver\XMLtoSQLserver\obj\x86\Debug\XMLtoSQLserver.pdb
